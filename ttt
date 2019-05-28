@@ -1,1 +1,7 @@
 hello lsh!!!
+
+
+via 文件名
+补充内容，git add
+然后可以通过pwd查看当前目录，直接在目录中打开文件用npp编辑
+再用git add 提交
